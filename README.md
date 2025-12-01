@@ -1,7 +1,7 @@
 ## Hi, I'm Wesley Henrique 😄👋
 ##### I'm an information systems student and a web development enthusiast.
 [![Portifolio](https://img.shields.io/badge/Vercel-000000?label=WHRL&style=for-the-badge&logo=vercel&logoColor=white)](https://whrl.vercel.app)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-henrique-60386b197)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyhrl/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyhrl&layout=compact&theme=dracula)
 ## Languages & Technology
