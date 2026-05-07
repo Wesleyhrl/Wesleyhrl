@@ -30,5 +30,5 @@ _Dedicated to building technology that simplifies lives and solves real-world pr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyhrl&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Wesleyhrl&layout=compact&theme=dracula&hide_border=true" />
 </div>
